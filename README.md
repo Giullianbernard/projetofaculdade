@@ -1,1 +1,1 @@
-# projetofaculdade
+# projeto-de-uma-faculdade
